@@ -79,7 +79,7 @@
 <!--- trophy (start) -->
 <div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=ElioChiu&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=bileldhifi&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
     </a>
 </div>
 <!--- trophy (start) -->
@@ -88,7 +88,7 @@
 <br>
 <!--profile visit count-->
 <div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ElioChiu&amp;label=Profile%20Views&amp;color=1&amp;pretty=false" alt=""></a></p>
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=bileldhifi&amp;label=Profile%20Views&amp;color=1&amp;pretty=false" alt=""></a></p>
 </div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
